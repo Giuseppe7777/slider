@@ -83,7 +83,7 @@
 .container #slider #slide1:checked ~ #overflow label:nth-child(2),
 .container #slider #slide2:checked ~ #overflow label:nth-child(3),
 .container #slider #slide3:checked ~ #overflow label:nth-child(1) {
-  background: url("../../img/angle-square-right.svg") 100%/cover no-repeat;
+  background: url("../img/angle-square-right.svg") 100%/cover no-repeat;
   position: absolute;
   top: 250px;
   right: -60px;
@@ -93,7 +93,7 @@
 .container #slider #slide3:checked ~ #overflow label:nth-last-child(2),
 .container #slider #slide2:checked ~ #overflow label:nth-last-child(3),
 .container #slider #slide1:checked ~ #overflow label:nth-last-child(1) {
-  background: url("../../img/angle-square-left.svg") 100%/cover no-repeat;
+  background: url("../img/angle-square-left.svg") 100%/cover no-repeat;
   position: absolute;
   top: 250px;
   left: -60px;
